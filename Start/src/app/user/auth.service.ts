@@ -10,7 +10,7 @@ import {
 import { User } from './user.model';
 
 var POOL_DATA = {
-  UserPoolId: ' us-east-1_Vj6phVeZx', // your user pool id here
+  UserPoolId: 'us-east-1_Vj6phVeZx', // your user pool id here
   ClientId: 'btibffp3s2uj66s2jmij0fk8o' // your app client id here
 };
 
